@@ -1,6 +1,5 @@
 # Persian Music Information Retrieval (MIR) & Generation
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d730f57a/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
 
