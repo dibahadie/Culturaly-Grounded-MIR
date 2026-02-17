@@ -52,6 +52,7 @@ with artificial neural network**](https://tava.isav.ir/article_20515_014e9a539b0
 ### Generative Models & Deep Learning
 * [**Transfer Learning for Underrepresented Music Generation**](https://arxiv.org/abs/2306.00281) - *A. Doosti Sanjani (2023)*
 * [**Classical Music Generation in Distinct Dastgahs with AlimNet ACGAN**](https://arxiv.org/abs/1901.04696) - *S. Malekzadeh, et al. (2019)*
+* [**Capturing the Dynamics of Cellular Automata, for the Generation of Synthetic Persian Music, Using Conditional Restricted Boltzmann Machines**](https://www.researchgate.net/publication/321171775_Capturing_the_Dynamics_of_Cellular_Automata_for_the_Generation_of_Synthetic_Persian_Music_Using_Conditional_Restricted_Boltzmann_Machines) - *S. Arshi, D. N. Davis - (2017)*
 
 
 ### Analysis & Transcription
