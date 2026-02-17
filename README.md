@@ -1,7 +1,4 @@
-# Persian Music Information Retrieval (MIR) & Generation
-
-![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
-![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
+# Persian Music Information Retrieval & Generation Paper Collection
 
 A curated, comprehensive collection of research papers, datasets, and computational resources for the analysis, recognition, and generative modeling of Persian Classical and Folk music.
 
@@ -16,8 +13,6 @@ Persian music is built upon the *Radif* system and *Dastgah* modes, utilizing mi
   - [Dastgah & Mode Recognition](#dastgah--mode-recognition)
   - [Generative Models & Deep Learning](#generative-models--deep-learning)
   - [Analysis & Transcription](#analysis--transcription)
-- [Theory & Representation](#-theory--representation)
-- [How to Contribute](#-how-to-contribute)
 - [License & Citation](#-license--citation)
 
 ---
