@@ -3,7 +3,7 @@
 A curated, comprehensive collection of research papers, datasets, and computational resources for the analysis, recognition, and generative modeling of Ottoman-Turkish Classical and Folk music.
 
 ## 📖 Overview
-Turkish music is built upon the *Makam* system and *Usul* rhythmic cycles, utilizing a microtonal interval system (typically modeled via 24-tone Arel-Ezgi-Uzdilek theory) that challenges standard Western MIR techniques. This repository serves as a central hub for researchers to find papers and datasets.
+Turkish music is built upon the *Makam* system and *Usul* rhythmic cycles, utilizing a microtonal interval system (typically modeled via 24-tone Arel-Ezgi-Uzdilek theory) that challenges standard Western MIR techniques.
 
 ---
 
