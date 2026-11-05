@@ -26,6 +26,7 @@ Links to the primary data sources used in the field.
 | **Radif Corpus** | Symbolic | A digital corpus representing the complete non-metrical Radif repertoire | [Link](https://arxiv.org/abs/2507.10456) |
 | **HamNava** | Audio | Multi-label dataset for instrument classification. | [Link](https://navaalab.github.io/resources/dataset/hamnava.html) |
 | **Nava** | Audio | Benchmark for Dastgah and instrument recognition. | [Link](https://jasp.tabrizu.ac.ir/article_10444.html?lang=en) |
+| **PCMIR** | Audio | Monophonic Persian Classical Music Instrument Recognition Dataset. | [Link](https://jasp.tabrizu.ac.ir/article_10444.html?lang=en) |
 
 ---
 
@@ -33,7 +34,8 @@ Links to the primary data sources used in the field.
 
 ### Instrument Detection
 * [**Supervised Contrastive Models for MIR in Classical Persian Music**](https://transactions.ismir.net/articles/10.5334/tismir.271) - *A. A. Katamjani, et al. (2026)*
-* [**Persian Musical Instruments Classification Using Polyphonic Data Augmentation**](https://jasp.tabrizu.ac.ir/article_10444.html?lang=en)  - *D. Hadi, et al. (2025)* 
+* [**Persian Musical Instruments Classification Using Polyphonic Data Augmentation**](https://jasp.tabrizu.ac.ir/article_10444.html?lang=en)  - *D. Hadi, et al. (2025)*
+* [**Persian Classical Music Instrument Recognition (PCMIR) Using a Novel Persian Music Database**](https://ieeexplore.ieee.org/document/8965166)  - *S. Mousavi, et al. (2019)*
 
 ### Dastgah & Mode Recognition
 * [**Iranian Traditional Music Subgenre Recognition Using Ensemble Learning**](https://www.researchgate.net/publication/392263884_Iranian_Traditional_Music_Subgenre_Dastgah_Recognition_Using_Ensemble_Learning_And_Graph-Based_Representation_By_Introducing_New_Database) - *S. Ghazanfaripour, et al.* (2025)
