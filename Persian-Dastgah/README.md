@@ -59,11 +59,3 @@ Links to the primary data sources used in the field.
 * [**Computational Extraction of Intonation and Tuning Systems**](https://arxiv.org/abs/2503.11956) - *J. Bonada, et al. (2025)*
 * [**Grammatical Structure and Grammatical Variations in Persian Music**](https://arxiv.org/abs/2507.10708) - *M. Kanani, et al. - (2025)*
 
----
-
-## License & Citation
-This curated list is licensed under the **CC-BY-4.0 License**.
-
-If you use this repository for your research, please cite it as follows:
-```text
-Diba Hadi Esfangereh. (2026). Culturally-Grounded-MIR: A Comprehensive Research Hub. GitHub.
