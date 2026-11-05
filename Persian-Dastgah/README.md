@@ -3,8 +3,7 @@
 A curated, comprehensive collection of research papers, datasets, and computational resources for the analysis, recognition, and generative modeling of Persian Classical and Folk music.
 
 ## 📖 Overview
-Persian music is built upon the *Radif* system and *Dastgah* modes, utilizing microtonal intervals (notably *Koron* and *Sori*) that challenge standard Western MIR techniques. This repository serves as a central hub for researchers to find papers and datasets.
-
+Persian music is built upon the *Radif* system and *Dastgah* modes, utilizing microtonal intervals (notably *Koron* and *Sori*) that challenge standard Western MIR techniques.
 ---
 
 ## 📋 Table of Contents
