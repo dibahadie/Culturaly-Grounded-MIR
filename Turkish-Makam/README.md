@@ -69,12 +69,3 @@ Links to the primary data sources used in the field.
 
 * [**Relationships between Prosodic and Musical Meters in the Beste Form of Classical Turkish Music**](https://openaccess.marmara.edu.tr/entities/publication/69dfb4a1-2e7c-46e1-9f13-0a6ef52f6f62) – *T. Bektaş (2005)*
 * [**MakamNetz: A Network-Based Analysis of Makam Transitions**](https://www.researchgate.net/publication/372455121_MakamNetz) – *O. Baysal (2022)*
-
----
-
-## License & Citation
-This curated list is licensed under the **CC-BY-4.0 License**.
-
-If you use this repository for your research, please cite it as follows:
-```text
-Diba Hadi Esfangereh. (2026). Culturally-Grounded-MIR: A Comprehensive Research Hub. GitHub.
